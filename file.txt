@@ -1,6 +1,4 @@
-Hello World 
-
 This is my first git repository use it carefully
-
-
+Hello World
+This is my first git repository use it carefully
 HI how are you??
